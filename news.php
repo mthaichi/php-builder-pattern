@@ -99,4 +99,3 @@ $director = new NewsDirector( new RssV2NewsBuilder(), "https://www.vektor-inc.co
     </body>
     
 </html>
-*/
